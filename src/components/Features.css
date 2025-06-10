@@ -1,0 +1,80 @@
+.features {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 60px 20px;
+  max-width: 1200px;
+  margin: auto;
+  gap: 40px;
+  overflow-x: hidden;
+}
+
+.features-left {
+  flex: 1 1 100px;
+  margin-left: 35px;
+}
+
+.features-left h2 {
+  font-size: 32px;
+  font-weight: 500;
+  margin-bottom: 40px;
+  color: #4d4c4c;
+}
+
+.feature-block {
+  margin-bottom: 24px;
+}
+
+.feature-block h3 {
+  font-size: 20px;
+  font-weight: 500;
+  color: #333;
+  margin-bottom: 8px;
+}
+
+.feature-block p {
+  color: #555;
+  line-height: 1.6;
+}
+
+.feature-block a {
+  color: #387ed1;
+  text-decoration: none;
+}
+
+.feature-links a {
+  color: #387ed1;
+  font-weight: 500;
+  text-decoration: none;
+  display: inline;
+  justify-content: center;
+  align-items: center;
+  padding: 60px;
+  margin: 30px;
+}
+
+.feature-links a:hover {
+    color: rgb(0, 0, 0);
+}
+
+.feature-block a:hover {
+    color: rgb(0, 0, 0);
+}
+
+.features-right {
+  flex: 1 1 400px;
+  display: block;
+  align-items: center;
+  justify-content: center;
+}
+
+.features-right img {
+  max-width: 90%;
+  height: auto;
+}
+
+.press-logos {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+}

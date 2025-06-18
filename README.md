@@ -2,6 +2,7 @@
 A responsive Zerodha (Kite) Clone built using React.js, mimicking the look and feel of the popular stock trading platform. This project demonstrates how to build a modern UI with functional components, routing, and reusable layout patterns.
 
 🚀 Features
+
 🏠 Clean landing page (like zerodha.com)
 
 🎨 Styled using modern CSS
@@ -11,6 +12,7 @@ A responsive Zerodha (Kite) Clone built using React.js, mimicking the look and f
 
 
 🔧 Tech Stack
+
 Frontend: React.js, React Router
 
 State Management: React Hooks (useState)

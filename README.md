@@ -1,4 +1,4 @@
-📊 Zerodha Clone – React App
+<h1>📊 Zerodha Clone – React App</h1> <br>
 A responsive Zerodha (Kite) Clone built using React.js, mimicking the look and feel of the popular stock trading platform. This project demonstrates how to build a modern UI with functional components, routing, and reusable layout patterns.
 
 🚀 Features
